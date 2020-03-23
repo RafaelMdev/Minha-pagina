@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#cima {
+    position: absolute;
+    background-color: rgba(199, 187, 243, 0.623);
+    width: 100%;
+    height: 100px;
+    
+    
+    
+}
+
+#contato {
+    position: absolute;
+    color: black;
+    margin-top: 35px;
+    margin-left: 1170px;
+    font-size: 25px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    
+
+}
+
+#imagem1 {
+    
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+#baixo {
+    position: absolute;
+    margin-top: 100px;
+    width: 100%;
+    height: 55%;
+    background-color: rgb(199, 154, 241);
+}
+
+#minhaFoto {
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#quemSouEu {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#paragrafo1 {
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 18pt;
+    
+}
+
+#ultima {
+    position: absolute;
+    margin-top: 450px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 300px;
+}
+
+#icone {
+    position: absolute;
+    margin-left: 150px;
+    height: 180px;
+}
+
+#ultimoParagrafo {
+    
+    margin-left: 450px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+}
